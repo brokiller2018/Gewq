@@ -1,0 +1,209 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+body{
+    background-color: #e5eff8;
+    font-family: 'Montserrat', sans-serif;
+    color: #333c4e;
+    font-weight: 500;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto; 
+    padding: 0px 15px;
+}
+.header{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 105px;
+}
+.header_info{
+    padding: 9px 15px;
+    display: flex;
+}
+.header_info_right{
+    margin-right: 50px;
+    font-weight: 700;
+}
+.header_info_right:last-child{
+    margin-right: 0px;
+}
+.main{  
+    margin-top: 45px;
+    height: 527px;
+    background: linear-gradient( rgba(48, 45, 45, 0.8), rgba(22, 21, 21, 0.5) ), url(tzi_home.jpg);
+    background-size: cover;
+}
+.font_main{
+    padding-top: 100px;
+    text-align: center;
+    color: #fff;
+    font-size: 72px;
+}
+.font_main_info{
+    line-height: 1.2;
+    text-align: center;
+    margin-top: 45px;
+    color: #fff;
+    font-size: 37px;
+}
+.relevance{
+    margin-top: 60px;
+}
+.head_relevance{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(187, 72, 72);
+}
+.info_relevance{
+    line-height: 1.6;
+    margin-top: 40px;
+    border-radius: 20px;
+    padding: 40px 45px;
+    background-color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+.goal{
+    margin-top: 60px;
+}
+.head_goal{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(187, 72, 72);
+}
+.info_head_goal{
+    line-height: 1.6;
+    margin-top: 40px;
+    border-radius: 20px;
+    padding: 30px 35px;
+    background-color: #fff;
+    font-size: 20px;
+    text-align: center;
+}
+.plan{
+    margin-top: 40px;
+}
+.head_plan{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(187, 72, 72);
+}
+.head_plan_content_1{
+    margin-left: 64px;
+    font-size: 17px;
+    border-radius: 20px;
+    line-height: 1.3;
+    padding: 35px 22px;
+    background-color: #fff;
+}
+.head_plan_content_2{
+    margin-left: 30px;
+    font-size: 17px;
+    border-radius: 20px;
+    line-height: 1.3;
+    padding: 35px 22px;
+    background-color: #fff;
+}
+.head_plan_content_3{
+    margin-left: 30px;
+    font-size: 17px;
+    border-radius: 20px;
+    line-height: 1.3;
+    padding: 35px 40px;
+    background-color: #fff;
+}
+.head_plan_content_4{
+    margin-top: 30px;
+    margin-left: 237px;
+    font-size: 17px;
+    border-radius: 20px;
+    line-height: 1.3;
+    padding: 35px 40px;
+    background-color: #fff;
+}
+.head_plan_content_5{
+    margin-top: 30px;
+    margin-left: 50px;
+    font-size: 17px;
+    border-radius: 20px;
+    line-height: 1.3;
+    padding: 35px 40px;
+    background-color: #fff;
+}    
+.plan_content{
+    margin-top: 40px;
+    margin-left: 50px;
+    text-align: center;
+    flex-wrap: wrap;
+    display:flex;
+}
+.history{
+    max-width: 1252px;
+    margin: 0 auto; 
+    border-radius: 20px;
+    padding: 0px 15px;
+    background-color: #333c4e;
+    padding: 50px 45px;
+}
+.joke{
+    margin-top: 60px;
+}
+.head_history{
+    font-size: 24px;
+    color: rgb(187, 72, 72);
+}
+.info_history{
+    text-align: left;
+    font-size: 18px;
+    margin-top: 25px;
+    line-height: 1.6;
+    color: #fff;
+}
+.header_defends{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(187, 72, 72);
+}
+.defends_content{
+    display: flex;
+    margin-top: 40px;
+}
+.defends_content_1{
+    text-align: center;
+    padding: 30px 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    color: #333c4e;
+    background-color: #ffffff;
+    width: 385px;
+    line-height: 1.3;
+}
+.defends_content_2{
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 10px;
+    color: #333c4e;
+    background-color: #ffffff;
+    width: 385px;
+    line-height: 1.3;
+}
+.defends_content_3{
+    margin-right: 20px;
+    text-align: center;
+    padding: 30px 20px;
+    border-radius: 10px;
+    color: #333c4e;
+    background-color: #ffffff;
+    width: 385px;
+    line-height: 1.3;
+}
+.defends_color{
+    color: rgb(187, 72, 72);
+}
+.container_2{
+    max-width: 1289px;
+    margin: 0 auto; 
+}
